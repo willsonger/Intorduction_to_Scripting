@@ -1,0 +1,8 @@
+list# predefined list
+list = [20, 68, 41, 88, 16, 40, 65, 97, 85]
+total=0
+
+	for i in range(0,len(list):
+        total=total+list[i]
+
+print ("The sum of all the numbers in the list is: ",total) 
