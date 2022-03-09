@@ -1,0 +1,11 @@
+Firstname Lastname Email course 1, course 2, course 3, course 4, course 5, course 6
+Ron Random rrandom@islander.tamucc.edu 60,50,60,80,90,100
+Kan Kate kkate@islander.tamucc.edu 80,45,70,80,90,75
+Rich Alpha ralpha@islander.tamucc.edu 100,90,60,90,90,100
+Kevin Heart kheart@islander.tamucc.edu 45,50,60,75,90,10
+Dave Chappel dchappel@islander.tamucc.edu 65,55,60,80,90,85
+Rick Talor rtalor@islander.tamucc.edu 60,50,65,80,90,78
+Remo Realtor rrealtor@islander.tamucc.edu 70,55,60,80,90,58
+Adam Anorak aanorak@islander.tamucc.edu 45,50,65,30,90,55
+Real Worker rworker@islander.tamucc.edu 60,50,60,90,90,100
+Class Project cproject@islander.tamucc.edu 55,90,65,80,75,100
